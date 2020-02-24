@@ -1,0 +1,29 @@
+.category-border{
+  background-image: linear-gradient(to right,#FFD019 0%,#FF9C35 100%);
+  width: 8%;
+  height: 8px;
+  border-radius: 5px;
+}
+.bag{
+  border-radius: 5px 20px 5px 40px;
+}
+.beauty{
+  border-radius: 20px 5px 40px 5px;
+}
+.shoe{
+  border-radius: 20px 5px 40px 5px;
+}
+.carousel-indicators li {
+  background-color: gray;
+  width: 12px;
+  height: 9px;
+  border-radius: 42%;
+}
+.carousel-indicators .active{
+background-image: linear-gradient(to left,#FFD019 0%,#FF9C35 100%);
+width: 30px;
+}
+.orange-bg{
+background-image: linear-gradient(to left,#FFD019 0%,#FF9C35 100%);
+ border-radius: 8px;
+}
